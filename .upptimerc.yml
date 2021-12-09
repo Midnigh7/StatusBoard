@@ -4,7 +4,7 @@ repo: StatusBoard # The name of this repository
 
 sites:
   - name: Cog
-    url: https://cog.mytechpartners.net
+    url: https://cog.mytechpartners.net/api
   - name: ScreenConnect
     url: https://go.mytech.com
   - name: ScreenConnect Relay
