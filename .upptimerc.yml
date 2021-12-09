@@ -3,10 +3,14 @@ owner: Midnigh7 # Your GitHub organization or username, where this repository li
 repo: StatusBoard # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Cog
+    url: https://cog.mytechpartners.net
+  - name: ScreenConnect
+    url: https://go.mytech.com
+  - name: ScreenConnect Relay
+    check: "tcp-ping"
+    url: screlay.mytech.com
+    port: 8080
   - name: N-Able
     url: https://Manage.mytech.com
   - name: ConnectWise Manage
