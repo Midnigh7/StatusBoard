@@ -6,7 +6,8 @@ sites:
   - name: Auvik
     url: https://mytech.us1.my.auvik.com/
   - name: Cog
-    url: https://cog.mytechpartners.net
+    url: cog.mytechpartners.net
+    check: "tcp-ping"
     port: 9443
   - name: ScreenConnect
     url: https://go.mytech.com
