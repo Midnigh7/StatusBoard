@@ -94,19 +94,19 @@
     "url": "https://connect.mytech.com",
     "icon": "https://favicons.githubusercontent.com/connect.mytech.com",
     "slug": "connect-wise-manage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 372,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 331,
+    "timeDay": 345,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 13
     }
   },
   {
