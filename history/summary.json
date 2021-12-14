@@ -40,19 +40,19 @@
     "url": "https://go.mytech.com",
     "icon": "https://favicons.githubusercontent.com/go.mytech.com",
     "slug": "screen-connect",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 391,
-    "timeWeek": 680,
-    "timeMonth": 680,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 679,
+    "timeDay": 483,
+    "timeWeek": 679,
+    "timeMonth": 679,
+    "timeYear": 679,
     "dailyMinutesDown": {
-      "2021-12-14": 0
+      "2021-12-14": 24
     }
   },
   {
