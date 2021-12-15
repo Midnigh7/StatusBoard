@@ -26,7 +26,7 @@ sites:
   - name: LionGuard
     url: https://mytech.app.liongard.com
   - name: CloudFlare Portal
-    url: https://dash.cloudflare.com/login
+    url: https://dash.cloudflare.com
     
 
 status-website:
