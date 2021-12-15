@@ -27,6 +27,8 @@ sites:
     url: https://mytech.app.liongard.com
   - name: CloudFlare
     url: https://www.cloudflarestatus.com/api/v2/status.json
+      headers:
+    - "Content-Type: application/json"
     __dangerous__body_degraded: "indicator: minor" 
     __dangerous__body_down: "indicator: major" 
 
