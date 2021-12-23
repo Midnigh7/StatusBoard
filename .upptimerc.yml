@@ -13,13 +13,13 @@ sites:
   - name: R2CW
     url: https://cog.mytechpartners.net:8081/api?action=healthCheck
     __dangerous__insecure: true
-    
+     
   - name: Alloy
     url: https://cog.mytechpartners.net:9090/healthCheck
     __dangerous__insecure: true
     
    - name: Flux
-    url: https://cog.mytechpartners.net:7070/healthCheck
+     url: https://cog.mytechpartners.net:7070/healthCheck
     __dangerous__insecure: true
     
   - name: ScreenConnect
