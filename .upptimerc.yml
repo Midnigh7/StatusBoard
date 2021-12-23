@@ -8,12 +8,13 @@ sites:
     
   - name: Cog
     url: "https://cog.mytechpartners.net:9090/healthCheck"
+    __dangerous__insecure: true
     #check: "tcp-ping"
     #port: 9090
   - name: R2CW
     url: "https://cog.mytechpartners.net:8081/api?action=healthCheck"
     #port: 8081
-    
+    __dangerous__insecure: true
   - name: ScreenConnect
     url: https://go.mytech.com
   - name: ScreenConnect Relay
