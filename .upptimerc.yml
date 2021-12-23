@@ -7,11 +7,11 @@ sites:
     url: https://mytech.us1.my.auvik.com/
     
   - name: Cog
-    url: https://cog.mytechpartners.net:9090/healthCheck
+    url: "https://cog.mytechpartners.net:9090/healthCheck"
     #check: "tcp-ping"
     #port: 9090
   - name: R2CW
-    url: https://cog.mytechpartners.net:8081/api?action=healthCheck
+    url: "https://cog.mytechpartners.net:8081/api?action=healthCheck"
     #port: 8081
     
   - name: ScreenConnect
