@@ -8,7 +8,10 @@ sites:
   - name: Cog
     url: https://cog.mytechpartners.net:9090/healthCheck
     #check: "tcp-ping"
-    #port: 9443
+    port: 9090
+  - name: R2CW
+    url: https://cog.mytechpartners.net/api?action=healthCheck
+    port: 8081
   - name: ScreenConnect
     url: https://go.mytech.com
   - name: ScreenConnect Relay
