@@ -5,19 +5,22 @@ repo: StatusBoard # The name of this repository
 sites:
   - name: Auvik
     url: https://mytech.us1.my.auvik.com/
+    
   - name: Cog
     url: https://cog.mytechpartners.net:9090/healthCheck
     #check: "tcp-ping"
-    port: 9090
+    #port: 9090
   - name: R2CW
-    url: https://cog.mytechpartners.net/api?action=healthCheck
-    port: 8081
+    url: https://cog.mytechpartners.net:8081/api?action=healthCheck
+    #port: 8081
+    
   - name: ScreenConnect
     url: https://go.mytech.com
   - name: ScreenConnect Relay
     check: "tcp-ping"
     url: screlay.mytech.com
     port: 8080
+    
   - name: N-Able
     url: https://Manage.mytech.com
   - name: ConnectWise Manage
