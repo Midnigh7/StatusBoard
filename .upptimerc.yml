@@ -7,14 +7,21 @@ sites:
     url: https://mytech.us1.my.auvik.com/
     
   - name: Cog
-    url: "https://cog.mytechpartners.net:9090/healthCheck"
+    url: https://cog.mytechpartners.net/healthcheck
     __dangerous__insecure: true
-    #check: "tcp-ping"
-    #port: 9090
+  
   - name: R2CW
-    url: "https://cog.mytechpartners.net:8081/api?action=healthCheck"
-    #port: 8081
+    url: https://cog.mytechpartners.net:8081/api?action=healthCheck
     __dangerous__insecure: true
+    
+  - name: Alloy
+    url: https://cog.mytechpartners.net:9090/healthCheck
+    __dangerous__insecure: true
+    
+   - name: Flux
+    url: https://cog.mytechpartners.net:7070/healthCheck
+    __dangerous__insecure: true
+    
   - name: ScreenConnect
     url: https://go.mytech.com
   - name: ScreenConnect Relay
