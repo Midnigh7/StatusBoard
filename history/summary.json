@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/mytech.us1.my.auvik.com",
     "slug": "auvik",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 829,
     "timeDay": 951,
     "timeWeek": 794,
@@ -43,9 +43,9 @@
     "url": "https://cog.mytechpartners.net:8081/api?action=healthCheck",
     "icon": "https://favicons.githubusercontent.com/cog.mytechpartners.net",
     "slug": "r2-cw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-28": 0
+    }
   },
   {
     "name": "Alloy",
