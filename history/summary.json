@@ -99,18 +99,19 @@
     "url": "https://go.mytech.com",
     "icon": "https://favicons.githubusercontent.com/go.mytech.com",
     "slug": "screen-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 1264,
     "timeDay": 366,
-    "timeWeek": 2900,
+    "timeWeek": 3236,
     "timeMonth": 1438,
     "timeYear": 1264,
     "dailyMinutesDown": {
+      "2022-01-15": 0,
       "2022-01-01": 23,
       "2021-12-14": 24
     }
