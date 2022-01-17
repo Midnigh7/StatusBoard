@@ -27,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/cog.mytechpartners.net",
     "slug": "cog",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 162,
     "timeDay": 317,
     "timeWeek": 250,
     "timeMonth": 204,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2022-01-17": 3
+      "2022-01-17": 21
     }
   },
   {
@@ -47,18 +47,18 @@
     "icon": "https://favicons.githubusercontent.com/cog.mytechpartners.net",
     "slug": "r2-cw",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.89%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 184,
     "timeDay": 185,
     "timeWeek": 159,
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2022-01-17": 2,
+      "2022-01-17": 20,
       "2021-12-28": 20
     }
   },
@@ -68,18 +68,18 @@
     "icon": "https://favicons.githubusercontent.com/cog.mytechpartners.net",
     "slug": "alloy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 194,
     "timeDay": 194,
     "timeWeek": 167,
     "timeMonth": 194,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-01-17": 2
+      "2022-01-17": 19
     }
   },
   {
@@ -87,10 +87,10 @@
     "url": "https://cog.mytechpartners.net:7070/healthCheck",
     "icon": "https://favicons.githubusercontent.com/cog.mytechpartners.net",
     "slug": "flux",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
@@ -98,7 +98,9 @@
     "timeWeek": 159,
     "timeMonth": 152,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-17": 1
+    }
   },
   {
     "name": "ScreenConnect",
@@ -162,9 +164,9 @@
     "url": "https://connect.mytech.com",
     "icon": "https://favicons.githubusercontent.com/connect.mytech.com",
     "slug": "connect-wise-manage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -173,7 +175,9 @@
     "timeWeek": 303,
     "timeMonth": 301,
     "timeYear": 306,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-17": 0
+    }
   },
   {
     "name": "Immy.Bot",
