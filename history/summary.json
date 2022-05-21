@@ -117,10 +117,10 @@
     "url": "https://go.mytech.com",
     "icon": "https://favicons.githubusercontent.com/go.mytech.com",
     "slug": "screen-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 846,
@@ -129,6 +129,7 @@
     "timeMonth": 569,
     "timeYear": 846,
     "dailyMinutesDown": {
+      "2022-05-21": 0,
       "2022-05-14": 22,
       "2022-03-26": 31,
       "2022-02-21": 16,
@@ -143,9 +144,9 @@
     "url": "screlay.mytech.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "screen-connect-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -154,7 +155,9 @@
     "timeWeek": 54,
     "timeMonth": 65,
     "timeYear": 65,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-21": 0
+    }
   },
   {
     "name": "N-Able",
