@@ -301,9 +301,9 @@
     "url": "https://www.cloudflarestatus.com/api/v2/status.json",
     "icon": "https://favicons.githubusercontent.com/www.cloudflarestatus.com",
     "slug": "cloud-flare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -313,6 +313,7 @@
     "timeMonth": 264,
     "timeYear": 251,
     "dailyMinutesDown": {
+      "2022-09-22": 0,
       "2022-02-15": 19
     }
   }
