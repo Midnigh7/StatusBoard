@@ -323,11 +323,11 @@
     "url": "https://mytech.itglue.com",
     "icon": "https://icons.duckduckgo.com/ip3/mytech.itglue.com.ico",
     "slug": "it-glue",
-    "status": "up",
+    "status": "down",
     "uptime": "77.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "49.61%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "49.66%",
     "uptimeYear": "74.51%",
     "time": 753,
     "timeDay": 777,
@@ -335,6 +335,7 @@
     "timeMonth": 542,
     "timeYear": 735,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-18": 23,
       "2023-01-09": 939,
       "2023-01-08": 1440,
@@ -440,9 +441,9 @@
     "url": "https://mytech.app.liongard.com",
     "icon": "https://icons.duckduckgo.com/ip3/mytech.app.liongard.com.ico",
     "slug": "lion-guard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -452,6 +453,7 @@
     "timeMonth": 287,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-03-11": 19,
       "2022-01-29": 23
     }
