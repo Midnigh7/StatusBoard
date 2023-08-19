@@ -1,7 +1,7 @@
 url: https://www.cloudflarestatus.com/api/v2/status.json
 status: up
 code: 200
-responseTime: 144
-lastUpdated: 2023-08-18T23:12:58.804Z
-startTime: Wed Dec 15 2021 19:33:55 GMT+0000 (Coordinated Universal Time)
+responseTime: 186
+lastUpdated: 2023-08-19T23:12:45.289Z
+startTime: 2021-12-15T19:33:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
