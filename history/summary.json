@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-08-19": 317,
+      "2023-08-19": 326,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-08-19": 317,
+      "2023-08-19": 326,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
@@ -603,19 +603,19 @@
     "url": "https://connect.mytech.com",
     "icon": "https://icons.duckduckgo.com/ip3/connect.mytech.com.ico",
     "slug": "connect-wise-manage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 234,
-    "timeWeek": 258,
-    "timeMonth": 278,
+    "timeDay": 223,
+    "timeWeek": 252,
+    "timeMonth": 276,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-08-19": 1
+      "2023-08-19": 10
     }
   },
   {
@@ -782,7 +782,7 @@
     "timeMonth": 0,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2023-08-19": 317,
+      "2023-08-19": 327,
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
