@@ -5,25 +5,14 @@ repo: StatusBoard # The name of this repository
 sites:
   - name: Auvik
     url: https://mytech.us1.my.auvik.com/
-    
-  - name: Cog
-    url: https://cog.mytechpartners.net/healthcheck
-    __dangerous__insecure: true
-  
-  - name: R2CW
-    url: https://cog.mytechpartners.net:8081/api?action=healthCheck
-    __dangerous__insecure: true
      
   - name: Alloy
     url: https://cog.mytechpartners.net:9090/healthCheck
     __dangerous__insecure: true
     
-  - name: Flux
-    url: https://cog.mytechpartners.net:7070/healthCheck
-    __dangerous__insecure: true
-    
   - name: ScreenConnect
     url: https://go.mytech.com
+
   - name: ScreenConnect Relay
     check: "tcp-ping"
     url: screlay.mytech.com
@@ -31,14 +20,29 @@ sites:
     
   - name: N-Able
     url: https://Manage.mytech.com
+
   - name: ConnectWise Manage
     url: https://connect.mytech.com
+
   - name: Immy.Bot
     url: https://mytech.immy.bot
+
   - name: ITGlue
     url: https://mytech.itglue.com
-  - name: LionGuard
-    url: https://mytech.app.liongard.com
+
+  - name: Rewst
+    url: https://app.rewst.io
+    icon: https://app.rewst.io/favicon.ico
+
+  - name: NodeRed
+    url: https://nodered.mytech.com/api/HealthCheck
+    icon: https://nodered.mytech.com/favicon.ico
+
+  - name: Jamf
+    url: https://mytech.jamfcloud.com
+    icon: https://mytech.jamfcloud.com/favicon.ico
+
+
   - name: CloudFlare
     url: https://www.cloudflarestatus.com/api/v2/status.json
     headers:
