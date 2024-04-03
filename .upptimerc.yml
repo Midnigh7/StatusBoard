@@ -20,6 +20,7 @@ sites:
     
   - name: N-Able
     url: https://Manage.mytech.com
+    icon: https://www.n-able.com/wp-content/themes/nable.2021/img/favicon/favicon-16x16.png
 
   - name: ConnectWise Manage
     url: https://connect.mytech.com
@@ -29,17 +30,19 @@ sites:
 
   - name: ITGlue
     url: https://mytech.itglue.com
+    icon: https://www.itglue.com/favicon.ico
 
   - name: Rewst
     url: https://app.rewst.io
     icon: https://app.rewst.io/favicon.ico
 
   - name: NodeRed
-    url: https://nodered.mytech.com/api/HealthCheck
+    url: https://nodered.mytech.com/api?api=HealthCheck
     icon: https://nodered.mytech.com/favicon.ico
+    __dangerous__body_down_if_text_missing: '"Status":"Healthy"'
 
   - name: Jamf
-    url: https://mytech.jamfcloud.com
+    url: https://mytech.jamfcloud.com/healthCheck.html
     icon: https://mytech.jamfcloud.com/favicon.ico
 
 
