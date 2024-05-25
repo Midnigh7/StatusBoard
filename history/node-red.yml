@@ -1,7 +1,7 @@
 url: https://nodered.mytech.com/api?api=HealthCheck
 status: up
 code: 200
-responseTime: 249
-lastUpdated: 2024-05-24T23:18:12.654Z
+responseTime: 323
+lastUpdated: 2024-05-25T23:17:49.765Z
 startTime: 2024-04-02T17:28:18.771Z
 generator: Upptime <https://github.com/upptime/upptime>
