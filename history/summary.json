@@ -61,7 +61,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2024-09-10": 804,
+      "2024-09-10": 816,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -134,19 +134,19 @@
     "url": "https://go.mytech.com",
     "icon": "https://icons.duckduckgo.com/ip3/go.mytech.com.ico",
     "slug": "screen-connect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 514,
-    "timeWeek": 637,
-    "timeMonth": 531,
+    "timeDay": 555,
+    "timeWeek": 632,
+    "timeMonth": 533,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2024-09-10": 0
+      "2024-09-10": 11
     }
   },
   {
