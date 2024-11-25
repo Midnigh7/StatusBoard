@@ -6,10 +6,6 @@ sites:
   - name: Auvik
     url: https://mytech.us1.my.auvik.com/
      
-  - name: Alloy
-    url: https://cog.mytechpartners.net:9090/healthCheck
-    __dangerous__insecure: true
-    
   - name: ScreenConnect
     url: https://go.mytech.com
 
