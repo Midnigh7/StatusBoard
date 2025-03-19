@@ -1,7 +1,7 @@
 url: https://mytech.jamfcloud.com/healthCheck.html
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2025-03-19T23:23:26.664Z
+status: down
+code: 403
+responseTime: 216
+lastUpdated: 2025-03-19T23:41:43.874Z
 startTime: 2024-04-02T17:28:21.271Z
 generator: Upptime <https://github.com/upptime/upptime>
